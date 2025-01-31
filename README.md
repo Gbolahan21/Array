@@ -1,4 +1,4 @@
-# API-Project
+# Array
 This project is being implemented to get data from Array literal notation using array map function.
 
 # How It's Made
